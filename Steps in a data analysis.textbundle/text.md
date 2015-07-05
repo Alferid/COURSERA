@@ -45,8 +45,8 @@ How does what you get differ from what you were expecting?
 Were your expectations correct in the first place?
 Can you reproduce the problem (exactly)?
 
-[https://support.rstudio.com/hc/en-us/articles/200484448-Editing-and-Executing-Code][1]
-[https://support.rstudio.com/hc/en-us/articles/200484448-Editing-and-Executing-Code#executing][2]
+[https://support.rstudio.com/hc/en-us/articles/200484448-Editing-and-Executing-Code](https://support.rstudio.com/hc/en-us/articles/200484448-Editing-and-Executing-Code)
+[https://support.rstudio.com/hc/en-us/articles/200484448-Editing-and-Executing-Code#executing](https://support.rstudio.com/hc/en-us/articles/200484448-Editing-and-Executing-Code#executing)
 
 
 \_\_Git and GitHub commands 
@@ -125,7 +125,7 @@ And what that will do is it will issue a pull request to the individual that own
 So if it's yourself, you'll get a notification that there's been a pull request. If it's somebody else, they'll get a
 notification. And then they can decide whether to merge that pull request into their repo or not if they think the changes are appropriate. So you can see all the changes that were made and confirm whether they were sort of appropriate and interesting or not.
 
-So the best place to start is actually a [Github help][3].
+So the best place to start is actually a [Github help](%20https://help.github.com/).
 Git documentation is actually quite thorough, it takes
 a little bit more reading and a little bit more doing. Although my experience has been that the best place to, to deal with this is to type sort of what you think you want to do into Google or into Stack Overflow and you find out the answers much more quickly that way.
 
@@ -279,7 +279,7 @@ An important note here is that you should
 not put the package names
 In quotes when you are using library
 otherwise you won't get correct loading.
-[INAUDIBLE][4] some packages produce messages
+[INAUDIBLE](#) some packages produce messages
 when they are loading and some don't.
 Either way you don't need to worry about
 it.
@@ -315,7 +315,7 @@ with dots, starting at the beginning, nicely formatted by GitHub.
 And so, those are the two basic things that you need to know right now.
 You can use headings, and you can use lists to sort of organize your file.
 And then you can just type plain paragraphs as well.
-If you want to [UNKNOWN][5], know a lot more about markdown, you can try out this link right here or if once you've installed Rstudio, you can actually click the button, there's an MD button right in the middle of the screen, that if you click on that, you'll get a quick guide to markdown.
+If you want to [UNKNOWN](#), know a lot more about markdown, you can try out this link right here or if once you've installed Rstudio, you can actually click the button, there's an MD button right in the middle of the screen, that if you click on that, you'll get a quick guide to markdown.
 And so you will don't need R Markdown or any of the more technical details, until you get to reproducible research, but this will be useful, in terms of putting sum into your first few
 directories on GitHub.
 
@@ -330,9 +330,3 @@ directories on GitHub.
 
 $ git remote add origin https://github.com/yourUserNameHere/test-repo.git
 $ git clone https://github.com/yourUserNameHere/repoNameHere.git
-
-[1]:	https://support.rstudio.com/hc/en-us/articles/200484448-Editing-and-Executing-Code
-[2]:	https://support.rstudio.com/hc/en-us/articles/200484448-Editing-and-Executing-Code#executing
-[3]:	%20https://help.github.com/
-[4]:	#
-[5]:	#
