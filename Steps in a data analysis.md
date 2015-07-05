@@ -283,25 +283,10 @@ otherwise you won't get correct loading.
 when they are loading and some don't.
 Either way you don't need to worry about
 it.
-So after you load a package the functions
-exported by that package will be attached
-at the top of the search list so what you
-can do is you can type library(ggplot2).
-And then if you type search, open
-parentheses, close parentheses, you will
-see all of the functions that are part of
-the ggplot2 package.
-So the summary is that R package is a
-powerful mechanism for extending
-the functionality of our R Packages could
-be obtained by CRAN or other repositories.
-You install the packages, function could
-be used
-to install packages from the R console and
-then
-library is what you do to load the
-packages in to actually get access to the
-functions.
+So after you load a package the functions exported by that package will be attached at the top of the search list so what you can do is you can type library(ggplot2).
+And then if you type search, open parentheses, close parentheses, you will see all of the functions that are part of the ggplot2 package.
+So the summary is that R package is a powerful mechanism for extending the functionality of our R Packages could be obtained by CRAN or other repositories.
+You install the packages, function could be used to install packages from the R console and then library is what you do to load the packages in to actually get access to the functions.
 
 __The basics of markdown.
 So markdown is just a text file that's formatted in a very specific and simple way that sites like GitHub and also R and R Studio can recognize and can be used to do a lot of different
@@ -333,8 +318,6 @@ And then you can just type plain paragraphs as well.
 If you want to [UNKNOWN](#), know a lot more about markdown, you can try out this link right here or if once you've installed Rstudio, you can actually click the button, there's an MD button right in the middle of the screen, that if you click on that, you'll get a quick guide to markdown.
 And so you will don't need R Markdown or any of the more technical details, until you get to reproducible research, but this will be useful, in terms of putting sum into your first few
 directories on GitHub.
-
-
 
 
 
